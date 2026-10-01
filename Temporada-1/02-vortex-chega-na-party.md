@@ -1,10 +1,5 @@
 # Vortex Chega Na Party
 
-**Personagens presentes:** João, Tucano, Sinapra, Maquinhos, KJ, Gay, Guma, Vortex (estreia)
-**Resumo:** Logo depois da masmorra do Mal Ancestral, o grupo é interrompido por Vortex, que entra gritando, ecoando tudo que ouve e cornetando todo mundo igualmente. Guma tenta se apresentar de forma calma e acaba se enrolando sozinho no processo.
-
----
-
 O grupo tinha acabado de sair da masmorra do Mal Ancestral (que, relembrando, tinha ido almoçar e nunca mais voltou), quando uma voz ecoou pela floresta antes mesmo de qualquer um ver o dono dela.
 
 "COLÉ BITCHOOOW!"

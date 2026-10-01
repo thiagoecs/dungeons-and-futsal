@@ -1,10 +1,5 @@
 # A Regra Era Silêncio Absoluto
 
-**Personagens presentes:** João, Tucano, Sinapra, Maquinhos, KJ, Gay, Guma, Vortex, Daragan
-**Resumo:** O grupo precisa atravessar a passagem de um gigante adormecido sem fazer barulho nenhum — uma tarefa teoricamente simples que se revela impossível pra um grupo com Vortex, Sinapra e o resto. O plano desmorona peça por peça até o próprio mecanismo que deixa o João forte virar o motivo do fracasso.
-
----
-
 Na boca da caverna, Guma ajoelhou e olhou pra trás com o dedo nos lábios.
 
 "Regra número um," sussurrou ele. "Silêncio absoluto. Tem um gigante dormindo lá dentro, do lado do baú que a gente veio buscar. Se ele acordar, a gente morre, ou pior, tem que negociar."

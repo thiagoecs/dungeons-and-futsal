@@ -1,10 +1,5 @@
 # Um Homem De Armadura Impecável
 
-**Personagens presentes:** João, Tucano, Sinapra, Maquinhos, KJ, Gay, Guma, Vortex, Daragan (estreia)
-**Resumo:** O grupo recebe Daragan, um paladino extremamente correto que se apresenta citando o próprio código de conduta. Sinapra reconhece ele na hora — os dois têm uma história mal resolvida que ninguém entende — e o Maquinhos, sem querer, já ativa um lado possessivo do Daragan que ele mesmo não reconhece.
-
----
-
 Estavam todos parados numa encruzilhada, decidindo qual estrada seguir, quando um homem de armadura impecavelmente polida se aproximou andando em linha reta, como se a própria estrada devesse se ajustar a ele.
 
 "Boa tarde," disse ele, parando exatamente a uma distância educada de todo mundo. "Meu nome é Daragan. Fui informado de que este grupo busca companhia adicional, e, nos termos do artigo primeiro do meu próprio código pessoal de conduta, ofereço meus serviços."

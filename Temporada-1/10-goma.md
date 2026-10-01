@@ -1,10 +1,5 @@
 # Goma.
 
-**Personagens presentes:** João, Tucano, Sinapra, Maquinhos, KJ, Gay, Guma, Vortex, Daragan
-**Resumo:** Vitão propõe o "Duelo do Almoço" ali mesmo, entre os escombros do festival — um jogo de infância dele e do João, onde perde quem se ofender de verdade primeiro. Ninguém consegue ofender ninguém, mas o corpo do João trai a própria calma dele cada vez mais a cada rodada, e o duelo é interrompido no auge, antes de qualquer veredito, por uma correspondência oficial da Guilda que muda o assunto da temporada inteira.
-
----
-
 Não demorou muito. Vitão limpou os dedos na toalha, se levantou de novo — e de novo, e de novo, porque continuava sendo enorme — e bateu palma uma vez, do jeito de quem decide que o intervalo acabou.
 
 "Vou resolver isso logo, então," disse ele. "Aqui mesmo serve."

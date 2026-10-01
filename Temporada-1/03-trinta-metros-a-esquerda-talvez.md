@@ -1,10 +1,5 @@
 # Trinta Metros À Esquerda, Talvez
 
-**Personagens presentes:** João, Sinapra, Maquinhos, KJ, Gay, Guma, Vortex
-**Resumo:** Numa encruzilhada movimentada, João pede uma direção pro grupo. Vortex se mete pra "ajudar", não sabe o caminho perguntado mas indica outro lugar completamente aleatório. KJ resolve ajudar de verdade, e enquanto se dedica de corpo e alma a explicar pro João, alguém aproveita a distração pra furtar algo precioso dele.
-
----
-
 A encruzilhada tava cheia — carroças, mercadores, um cheiro forte de pão quente vindo de algum lugar que ninguém conseguia localizar. O grupo parou no meio do movimento, tentando decidir qual caminho seguir.
 
 "Alguém pergunta pra alguém," disse João, já virando a cabeça em direção ao burburinho mais próximo. "Vou perguntar eu mesmo."

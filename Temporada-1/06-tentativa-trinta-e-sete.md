@@ -1,10 +1,5 @@
 # Tentativa Trinta e Sete
 
-**Personagens presentes:** Sinapra, Tucano, Vortex, Maquinhos, Daragan
-**Resumo:** Sinapra decide gravar um álbum oficial das próprias músicas — todas sobre o Tucano e/ou pau, idealmente rimando com "mama um pau" — numa cabine de gravação arcana. Vortex insiste em "ajudar" competindo em volume, Maquinhos tenta uma catira em cima do preço da sessão, e o ciúme do Daragan encontra um motivo novo pra se manifestar.
-
----
-
 A cabine de ressonância arcana ficava nos fundos da Guilda dos Bardos, um cubículo forrado de tapeçaria grossa "pra prender o som", administrado por um gnomo chamado Surdina que falava como se cada palavra lhe custasse dinheiro.
 
 "Doze faixas," anunciou Sinapra, plantando o alaúde na cadeira como quem planta uma bandeira. "Todas sobre o Tucano. Ou sobre pau. O objetivo, claro, é as duas coisas na mesma faixa, e se der pra fechar com 'mama um pau', é obrigação moral."

@@ -1,10 +1,5 @@
 # Fui Almoçar, Volto em Dez Minutos
 
-**Personagens presentes:** João, Tucano, Sinapra, Maquinhos, KJ, Gay, Guma, Vortex, Daragan
-**Resumo:** Seguindo rumores de uma "Fera Devoradora" que varreu um festival inteiro de comida, o grupo encontra o autor do bilhete deixado na masmorra da primeira aventura — e descobre que o temido Mal Ancestral é só o Vitão, um amigo de infância do João apelidado, décadas atrás, de "Vomitão".
-
----
-
 O rastro começou numa taverna, como sempre começava: um fazendeiro contando, com os olhos ainda arregalados, que uma "coisa enorme" tinha aparecido no Festival da Colheita, comido cada mesa de ponta a ponta — incluindo a decoração, que era comestível só por acidente — e sumido antes de alguém reagir. Deixou, sobre o último prato vazio, um bilhete dobrado.
 
 "Deixou bilhete," repetiu Tucano, parado no meio da estrada com a cara de quem já sabia onde aquilo ia dar. "De novo."

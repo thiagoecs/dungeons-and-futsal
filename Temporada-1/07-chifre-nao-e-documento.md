@@ -1,10 +1,5 @@
 # Chifre Não é Documento
 
-**Personagens presentes:** Guma, João, Tucano, Maquinhos, Vortex, Gay
-**Resumo:** Um vilarejo em pânico confunde o Guma com a "Fera de Chifre" avistada na floresta — resquício nunca resolvido da Forma Selvagem da primeira masmorra. Ele tenta se explicar com calma; o resto do grupo torna isso impossível, e a solução que sobra é pior do que o problema original.
-
----
-
 O prefeito se chamava Bernaldo Alvoroço, um nome que ele carregava com orgulho de família havia quatro gerações e que, na opinião de Tucano, explicava perfeitamente os próximos dez minutos antes mesmo deles começarem.
 
 "A FERA!" berrou ele, subindo numa carroça pra ficar mais alto que a própria multidão. "A Fera de Chifre voltou! Peguem os forcados!"

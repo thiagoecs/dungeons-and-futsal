@@ -1,11 +1,5 @@
 # Compreensão Auditiva Plena
 
-**Personagens presentes:** Vortex, Gay
-
-**Resumo:** Gay se oferece pra acompanhar Vortex no cadastro oficial dele na Guilda dos Aventureiros, na esperança de finalmente ter uma conversa calma com o cara. O funcionário da guilda leva o formulário a sério demais, Vortex leva a sério do jeito errado, e o processo termina selando, de forma irreversível, tanto o apelido oficial de Vortex quanto uma qualificação em português que ele nunca devia ter escrito.
-
----
-
 A Guilda dos Aventureiros funcionava numa sala só, atrás de um balcão alto demais pra qualquer propósito prático, administrada por um sujeito magro chamado Ata que preenchia formulários com a letra mais reta que já se viu — e que, segundo rumor, nunca tinha rido de nada em quinze anos de cargo.
 
 "Eu venho," anunciou Gay, empurrando Vortex gentilmente na direção do balcão, "porque alguém decente precisa acompanhar esse processo. E porque eu ainda não consegui terminar uma frase com ele desde que ele chegou."

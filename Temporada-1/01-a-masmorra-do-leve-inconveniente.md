@@ -1,10 +1,5 @@
 # A Masmorra do Leve Inconveniente
 
-**Personagens presentes:** João, Tucano, Sinapra, Maquinhos, KJ, Gay, Guma
-**Resumo:** O grupo invade uma caverna atrás de um artefato ancestral. Entre furtividade que dá errado, cantigas impróprias do Sinapra sobre o Tucano, e o João ganhando stacks de fúria a cada provocação, descobrem no fim que o "Mal Ancestral" tinha ido almoçar e nunca mais voltou.
-
----
-
 O grupo parou na entrada da caverna, tochas acesas, armas prontas, vibe questionável.
 
 "Eu odeio caverna," resmungou Tucano, já traçando os símbolos de uma Bola de Fogo. "Por que é sempre caverna. Toda vez. 'Ah, artefato ancestral maligno, vamos buscar' — nunca é num bar agradável. Sempre caverna." Ele disse isso enquanto entrava na caverna primeiro que todo mundo.

@@ -1,10 +1,5 @@
 # Quem Manda Aqui é o Portador da Missão
 
-**Personagens presentes:** João, Tucano, Sinapra, Maquinhos, KJ, Gay, Guma, Vortex, Daragan
-**Resumo:** Pelo regulamento da Guilda, quem recebe a missão oficial comanda a missão — e o Vortex vira, oficialmente, o líder do grupo. Os sete originais tentam montar um retrato falado do Geek, cada um lembra de uma pessoa diferente, e o cartaz de "procurado" que o Vortex desenha juntando todas as descrições leva a Guilda a prender o único homem da cidade com aquela cara.
-
----
-
 Na manhã seguinte ao Duelo do Almoço, o grupo inteiro estava de pé diante do balcão alto demais da Guilda dos Aventureiros, e o Ata estava lendo em voz alta o Regulamento Interno, com o tom de quem lê um testamento pra uma família que não vai gostar do testamento.
 
 "Artigo quarenta," disse Ata. "'O portador da missão oficial responde pela missão oficial, e o grupo que o acompanha responde ao portador.'"
