@@ -19,3 +19,4 @@ Histórias curtas e cômicas de D&D 5e.
 
 - [Quem Manda Aqui é o Portador da Missão](Temporada-2/01-quem-manda-aqui-e-o-portador-da-missao.md)
 - [Mensalidades em Atraso](Temporada-2/02-mensalidades-em-atraso.md)
+- [Válido Por Tempo Indeterminado](Temporada-2/03-valido-por-tempo-indeterminado.md)
